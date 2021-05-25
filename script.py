@@ -1,8 +1,8 @@
 class script(object):
 
-    START_TEXT = """<b>Hai ,
+    START_TEXT = """<b>ʜᴀɪ ,
     
-I'm A simple Zee5 link downloader bot With Permanent Thumbnail Support💯.
+ɪ'ᴍ ᴀ ꜱɪᴍᴘʟᴇ ᴢᴇᴇ5 ʟɪɴᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ💯.
 
 Please send me any Zee5 link, I can upload it to telegram as File/Video.
 
