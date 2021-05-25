@@ -4,21 +4,21 @@ class script(object):
     
 ɪ'ᴍ ᴀ ꜱɪᴍᴘʟᴇ ᴢᴇᴇ5 ʟɪɴᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ᴡɪᴛʜ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴜᴘᴘᴏʀᴛ💯.
 
-Please send me any Zee5 link, I can upload it to telegram as File/Video.
+ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴢᴇᴇ5 ʟɪɴᴋ, ɪ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ ꜰɪʟᴇ/ᴠɪᴅᴇᴏ.
 
-Currently I'm in beta mode 🥺, If found any bugs, report @TroJanzSupport !
+ ᴄᴜʀʀᴇɴᴛʟʏ ɪ'ᴍ ɪɴ ʙᴇᴛᴀ ᴍᴏᴅᴇ 🥺, ɪꜰ ꜰᴏᴜɴᴅ ᴀɴʏ ʙᴜɢꜱ, ʀᴇᴘᴏʀᴛ @RajRajeshKumar !
 
-Click <i>/help</i> for more details....</b>"""
+ᴄʟɪᴄᴋ <i>/help</i> ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟꜱ....</b>"""
 
 
-    HELP_USER = """<b>Hai, Follow these steps..</b>
+    HELP_USER = """<b>ʜᴀɪ, ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ..</b>
  
-1. Send Custom Thumbnail (It will be saved permenantly!)
+1. ꜱᴇɴᴅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ (ɪᴛ ᴡɪʟʟ ʙᴇ ꜱᴀᴠᴇᴅ ᴘᴇʀᴍᴇɴᴀɴᴛʟʏ!)
 
-2. Send your zee5 url and select desired option.
+2. ꜱᴇɴᴅ ʏᴏᴜʀ ᴢᴇᴇ5 ᴜʀʟ ᴀɴᴅ ꜱᴇʟᴇᴄᴛ ᴅᴇꜱɪʀᴇᴅ ᴏᴘᴛɪᴏɴ.
 
 
-NOTE: Download may take some time! So please wait for it to complete!"""
+ɴᴏᴛᴇ: ᴅᴏᴡɴʟᴏᴀᴅ ᴍᴀʏ ᴛᴀᴋᴇ ꜱᴏᴍᴇ ᴛɪᴍᴇ! ꜱᴏ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ꜰᴏʀ ɪᴛ ᴛᴏ ᴄᴏᴍᴘʟᴇᴛᴇ!"""
 
 
     ABOUT_TEXT = """⭕️<b>My Name : TroJanZ Zee5 DL</b>
@@ -35,31 +35,31 @@ NOTE: Download may take some time! So please wait for it to complete!"""
 
     FORMAT_SELECTION = """<b>Choose appropriate option</b> <a href='{}'>⬇️</a>
 
-🎞  - Stream format
-📁  - File format
+🎞  - ꜱᴛʀᴇᴀᴍ ꜰᴏʀᴍᴀᴛ
+📁  - ꜰɪʟᴇ ꜰᴏʀᴍᴀᴛ
 
-<i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
+<i>NOTE : ᴛᴀᴋɪɴɢ ʜɪɢʜ ʀᴇꜱᴏʟᴜᴛɪᴏɴꜱ ᴍᴀʏ ʀᴇꜱᴜʟᴛ ɪɴ ꜰɪʟᴇꜱ ᴀʙᴏᴠᴇ 2ɢʙ ᴀɴᴅ ʜᴇɴᴄᴇ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴛɢ. ꜱᴏ ʙᴇᴛᴛᴇʀ ꜱᴇʟᴇᴄᴛ ᴀ ᴍᴇᴅɪᴜᴍ ʀᴇꜱᴏʟᴜᴛɪᴏɴ.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @contactHEXbot"
+    UPGRADE_TEXT = "PING at @RajRajeshKumar"
     
-    DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
+    DOWNLOAD_START = "ᴛʀʏɪɴɢ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴛᴏ ᴍʏ ꜱᴇʀᴠᴇʀ. ᴛʜɪꜱ ᴍᴀʏ ᴛᴀᴋᴇ ᴀ ᴡʜɪʟᴇ 😴"
     
-    UPLOAD_START = "Uploading Now ⬆️"
+    UPLOAD_START = "ᴜᴘʟᴏᴀᴅɪɴɢ ɴᴏᴡ ⬆️"
     
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.95GB due to Telegram API limitations."
+    RCHD_TG_API_LIMIT = "ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nᴅᴇᴛᴇᴄᴛᴇᴅ ꜰɪʟᴇ ꜱɪᴢᴇ: {}\nꜱᴏʀʀʏ. ʙᴜᴛ, ɪ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ꜰɪʟᴇꜱ ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 1.95ɢʙ ᴅᴜᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʟɪᴍɪᴛᴀᴛɪᴏɴꜱ."
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "**Thank you for Using Meh!! ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "**ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴜꜱɪɴɢ ᴍᴇʜ!! ❤️**"
     
-    SAVED_CUSTOM_THUMB_NAIL = "<b>✅Custom thumbnail Saved.\nThis thumbnail will be Permanent for all future uploads\n\nDo /delthumb to clear your thumbnail!</b>"
+    SAVED_CUSTOM_THUMB_NAIL = "<b>✅ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ꜱᴀᴠᴇᴅ.\nᴛʜɪꜱ ᴛʜᴜᴍʙɴᴀɪʟ ᴡɪʟʟ ʙᴇ ᴘᴇʀᴍᴀɴᴇɴᴛ ꜰᴏʀ ᴀʟʟ ꜰᴜᴛᴜʀᴇ ᴜᴘʟᴏᴀᴅꜱ\n\nᴅᴏ /delthumb ᴛᴏ ᴄʟᴇᴀʀ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ!</b>"
     
-    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
+    DEL_ETED_CUSTOM_THUMB_NAIL = "✅ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ ᴄʟᴇᴀʀᴇᴅ ꜱᴜᴄᴄᴇꜱꜰᴜʟʟʏ."
     
-    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@TroJanzHEX\n\nUse /delthumb ᴛᴏ ᴄʟᴇᴀʀ ᴛʜɪꜱ ᴛʜᴜᴍʙɴᴀɪʟ."
     
-    NO_THUMB = "SED😕 No saved thumbnails Found!!"
+    NO_THUMB = "ꜱᴇᴅ😕 ɴᴏ ꜱᴀᴠᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟꜱ ꜰᴏᴜɴᴅ!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @TroJanzHEX</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n@RajRajeshKumar</b>"
     
-    TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
+    TIMEOUT = "<b><i>ꜱᴏʀʀʏ ꜰᴏʀ ᴛʜᴇ ᴅᴇʟᴀʏ. ɪᴛ'ʟʟ ʜᴇʟᴘ ʀᴇᴅᴜᴄᴇ ᴛʜᴇ ꜰʟᴏᴏᴅ ᴡᴀɪᴛ</i> 😇\n\nᴡᴀɪᴛ ꜰᴏʀ {} ꜱᴇᴄ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ.</b>"
     
